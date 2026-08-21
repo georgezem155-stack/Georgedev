@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=[=++Welcome,+To+My+Profile!++=])](https://git.io/typing-svg)
 #
 <p align="center">
-  <img src="Black White Modern Gaming Banner Landscape.gif" />
+  <img src=".github/Black White Modern Gaming Banner Landscape (1).gif" />
 </p>
 </h3>
 
